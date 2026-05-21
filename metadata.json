@@ -1,0 +1,6 @@
+{
+  "name": "Super Browser",
+  "description": "Full-featured web browser with search tools, ad blocking, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
